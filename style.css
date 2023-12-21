@@ -1,0 +1,42 @@
+header{
+    background-color: #04C4D9;
+}
+.nav-link{
+    color: #FFF;
+    font-family: Marko One;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+main{
+    background: linear-gradient(rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.61)), url("./images/image\ 2.png");
+    background-position: center;
+    background-size: cover;
+    padding-top: 131px;
+    padding-left: 122px;
+    padding-bottom: 296px;
+}
+main p{
+    width: 452px;
+    color: #FFF;
+
+font-family: Nova Slim;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+main h1{
+    color: #F2636F;
+
+font-family: Nothing You Could Do;
+font-size: 70px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+footer{
+    background-color: #04C4D9; 
+}
